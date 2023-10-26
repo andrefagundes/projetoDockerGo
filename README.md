@@ -5,7 +5,7 @@
 Clone este repositório em sua máquina:
 
 ```bash
-git clone https://github.com/andremfagundes/andremfagundes.git
+git clone https://github.com/andrefagundes/projetoDockerGo.git
 
 ## Imagem docker
 docker pull andremfagundes/fullcycle
